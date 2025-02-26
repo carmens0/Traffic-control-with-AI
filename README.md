@@ -112,7 +112,7 @@ Q-Learning: Positioned as a middle-ground option, it achieves an average waiting
 
 SARSA: The least effective model, with a significantly higher average waiting time of 7.80 seconds and a collision rate of 0.13. It proves less effective in optimizing traffic flow and reducing accidents compared to the other models.
 
---
+
 
 
 ## 👥 Authors & Contact
