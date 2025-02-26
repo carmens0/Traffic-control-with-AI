@@ -102,7 +102,7 @@ For **option 6 (Validate Models)**, all models are tested in a single execution,
 ---
 
 
-📊 Performance Summary
+## 📊 Performance Summary
 
 Fixed Cycle & Longest Queue First: These models show similar performance, with an average waiting time of 3.56 and 3.54 seconds, respectively, and a collision rate of 0.05. While moderately efficient, they maintain low collision rates, indicating reliability but leaving room for improvement.
 
