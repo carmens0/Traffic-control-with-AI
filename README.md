@@ -114,7 +114,7 @@ SARSA: The least effective model, with a significantly higher average waiting ti
 
 
 
-<img src="./results/Results" width="800" class="center">
+<img src="./results/Results.png" width="800" class="center">
 
 
 
