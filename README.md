@@ -101,6 +101,20 @@ For **option 6 (Validate Models)**, all models are tested in a single execution,
 
 ---
 
+
+📊 Performance Summary
+
+Fixed Cycle & Longest Queue First: These models show similar performance, with an average waiting time of 3.56 and 3.54 seconds, respectively, and a collision rate of 0.05. While moderately efficient, they maintain low collision rates, indicating reliability but leaving room for improvement.
+
+Deep Q-Learning: This model stands out with the best overall performance, achieving the lowest average waiting time of 2.99 seconds and a minimal collision rate of 0.01. These results highlight its clear superiority in both efficiency and safety.
+
+Q-Learning: Positioned as a middle-ground option, it achieves an average waiting time of 3.29 seconds and a collision rate of 0.04. Although slightly inferior to Deep Q-Learning, it outperforms Fixed Cycle and Longest Queue First models.
+
+SARSA: The least effective model, with a significantly higher average waiting time of 7.80 seconds and a collision rate of 0.13. It proves less effective in optimizing traffic flow and reducing accidents compared to the other models.
+
+--
+
+
 ## 👥 Authors & Contact
 
 | Name                | Role & Contact                                                                                       |
