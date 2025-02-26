@@ -1,4 +1,5 @@
 # 🚦 Traffic Control with AI
+<img src="./fig/immagine.png" width="800" class="center">
 
 This project analyzes and compares the effectiveness of three Reinforcement Learning (RL) algorithms: **Deep Q-Learning, Q-Learning, and SARSA**, applied to traffic light management to reduce congestion at a simulated intersection.
 
