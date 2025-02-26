@@ -1,0 +1,1 @@
+Results: {'Fixed Cycle': 3.668997765648799, 'Longest Queque First': 3.5201048218029376, 'Deep Q-Learning': 2.9697285485932157, 'Q-Learning': 3.3467976862334003, 'SARSA': 7.29202038635994}
