@@ -14,7 +14,7 @@ The results demonstrate that **Deep Q-Learning** is the most effective approach,
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/yourusername/Traffic_control.git
+git clone https://github.com/carmens0/Traffic-control-with-AI.git
 cd Traffic_control
 ```
 
